@@ -1,3 +1,6 @@
 [submodule "neo-app-email"]
 	path = neo-app-email
 	url = git@github.com:markway-business/neo-app-email.git
+[submodule "neo-app-email-frontend"]
+	path = neo-app-email-frontend
+	url = git@github.com:Rafaelferreiradev/neo-app-email-frontend.git
